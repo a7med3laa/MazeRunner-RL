@@ -1,14 +1,18 @@
 # MazeRunner-RL
 
-MazeRunner game is a custom Gymnasium environment example used for Reinforcement learning to train and test an agent 
+MazeRunner game is a custom Gymnasium environment example used for Reinforcement learning to train and test an agent. The game is simple Where there is a robot that searches for a way to win the diamond. Moreover, the robot tries to avoid objects to not lose.
 
 The environment is solved using both stable_baselines3 A2C Algorithm and Q-learning 
+
+<img width="308" alt="Capture" src="https://github.com/user-attachments/assets/148567b0-105c-407b-8d68-371b5690a01e" />
 
 
 # Libraries used in the project:
 1. Tkinter
 2. Gymnasium 1.0.0
 3. Stable_baselines3 2.3.2
+
+
 
 
 # Files in the project:
